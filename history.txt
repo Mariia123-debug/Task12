@@ -1,0 +1,223 @@
+    1  bash myfirstbaschscript.sh
+    2  bash myfirstbaschscript.sh
+    3  cd
+    4  bash myfirstbashscript.sh
+    5  echo myfirstbaschscript.sh
+    6  echo bash myfirstbashscript
+    7  echo -e 'myfirstbashscript.sh'
+    8  bash 'myfirstbaschscript.sh'
+    9  ./myfirstbashscript.sh
+   10  cat myfirstbashscript.sh
+   11  cd
+   12  cat myfirstbashscript.sh
+   13  ls /la
+   14  ls -la
+   15  nano myfirstbaschscript.sh
+   16  nano myfirstbashscript.sh
+   17  cat myfirstbashscript.sh
+   18  cat myfirstbaschscript.sh
+   19  cat mzfirstbaschscript.sh
+   20  bush mzfirstbaschscript.sh
+   21  ./mzfirstbaschscript.sh
+   22  history >> export_file 'Script.txt'
+   23  history 
+   24  touch script.txt
+   25  history >> export_file 'Script.txt'
+   26  export_file 'Script.txt'
+   27  export 'Script.txt'
+   28  export "Script.txt"
+   29  cd
+   30  export "Script.txt"
+   31  history >> export_file 'Script.txt'
+   32  echo history -c >> dz.txt
+   33  cat dz.txt
+   34  tree
+   35  history
+   36  echo history -w >> dz.txt
+   37  cat dz.txt
+   38  history -w >> dz.txt
+   39  mkdir test 123
+   40  cd
+   41  cd test123
+   42  pwd
+   43  ls -la
+   44  mkdir test123
+   45  cd test123
+   46  echo "# test123" >> README.md
+   47  git init
+   48  ls -la
+   49  clear
+   50  git add .
+   51  git add README.md
+   52  git status
+   53  git commit -m "add file readme.md"
+   54  git branch -M main
+   55  git remote add origin git@github.com:Mariia123-debug/test123.git
+   56  get remote -v
+   57  git remote -v
+   58  git push -u origin main
+   59   touch test.txt
+   60  ls -la
+   61  git status
+   62  git add text.txt
+   63  git add test.txt
+   64  git status
+   65  git commit -m "created file test.txt"
+   66  git push
+   67  cat test.txt
+   68  nano test.txt
+   69  cat test.txt
+   70  git status
+   71  git add test.txt
+   72  git commit -m "added data in file test.txt"
+   73  history
+   74   git push
+   75   git branch
+   76  git checkout -btest
+   77  git checkout -b test
+   78  git branch
+   79  git rm -rf README.md
+   80  git status
+   81  git add .
+   82  git status
+   83  git commit -m "delete file README.md"
+   84  git push origin test
+   85  git branch
+   86  git switch
+   87  git switch main
+   88  ls -l
+   89  git merge
+   90  git merge test
+   91  ls -la
+   92  git log
+   93  git log --online --graph
+   94  git log --oneline --graph
+   95  touch 111
+   96  git commit -amm "added new file"
+   97  git commit -am "added new file"
+   98  mkdir git-branch
+   99  cd git-branch
+  100  touch README.dm
+  101  git init
+  102  add README.dm
+  103  git add README.dm
+  104  git status 
+  105  git commit -m README.dm
+  106  git remote add origin git@github.com:Mariia123-debug/git-branch.git
+  107  git push -u origin main
+  108  git push -u origin master
+  109  dit branch gitignore
+  110  git branch gitignore
+  111  git checkout gitignore
+  112  git add .
+  113  git commit -m
+  114  git remote add origin git@github.com:Mariia123-debug/git-branch.git
+  115  git push -u origin gitignore
+  116  /.ssh/id_ed25519.pub
+  117  ~/.ssh/id_ed25519.pub
+  118  ssh -i ~/.ssh/id_rsa ec2-user@linux.itcareerhub.de
+  119  [200~echo "# Task12" >> README.md
+  120  echo "# Task12" >> README.md
+  121  git init
+  122  git add README.md
+  123  git commit -m "first commit"
+  124  git remote add origin git@github.com:Mariia123-debug/Task12.git
+  125  git push -u origin main
+  126  git clone git@github.com:Mariia123-debug/Task12.git>/Task12.git
+  127  git remote -v
+  128  git branch -vv
+  129  git nano README.md
+  130  ls la 
+  131  git clone git@github.com:Mariia123-debug/Task12>/Task12
+  132  git clone git@github.com:Mariia123-debug/Task12>/Task12
+  133  git clone git@github.com:Mariia123-debug/Task12.git
+  134  echo "# Task12" >> README.md
+  135  git add README.md
+  136  git status
+  137  git add Task12/
+  138  git add README.md
+  139  git commit -m "README commit"
+  140  git branch -M main
+  141  git remote add origin git@github.com:Mariia123-debug/Task12.git
+  142  git push -u origin main
+  143  git remote remove origin
+  144  origin  git@github.com:Mariia123-debug/Task12.git (fetch)
+  145  origin  git@github.com:Mariia123-debug/Task12.git (fetch)
+  146  origin  git@github.com:Mariia123-debug/Task12.git
+  147  git remote remove origin
+  148  git remote add origin git@github.com:Mariia123-debug/Task12.git
+  149  git push -u origin main
+  150  git clone git@github.com:Mariia123-debug/Task12.git
+  151  git clone git@github.com:Mariia123-debug/Task12_new.git
+  152  git clone git@github.com:Mariia123-debug/git_intro.git
+  153  git clone git@github.com:Mariia123-debug/Task12_clone.git
+  154  cd Task12_clone.git
+  155  cd Task12_clone
+  156  git remote -v
+  157  git branch -vv
+  158  git clone git@github.com:Mariia123-debug/Task12.git
+  159  cd Task12
+  160  git status
+  161  git remote -v
+  162  git branch -vv
+  163  git checkout main
+  164  git pull origin main
+  165  git checkout -b feature
+  166  echo README.md "Практика создания веток"
+  167  nano .gitignore
+  168  git status
+  169  nano README.md
+  170  git status
+  171  git add README.md .gitignore
+  172  git commin -m " change README.md .gitignore"
+  173  git -u origin feature
+  174  git push -u origin feature
+  175  git commit --amend
+  176  git pust --forse-with-lease
+  177  git push --forse-with-lease
+  178  git push all
+  179  git push --force-with-lease
+  180  git add .
+  181  git commit
+  182  git push origin main
+  183  git branch all
+  184  git log --oneline --graph --decorate --all
+  185  git checkout main
+  186  git pull origin main
+  187  git merge feature
+  188  git merge feature
+  189  git merge feature fast-forward
+  190  git merge feature main
+  191  git merge feature
+  192  git merge feature --allow-unrelated-histories
+  193  git push origin main
+  194  history > history.txt
+  195  git checkout -b feature
+  196  git switch feature
+  197  clear
+  198  git clone git@github.com:Mariia123-debug/Task12.git
+  199  cd Task12
+  200  git status
+  201  git remote -v
+  202  git branch -vv
+  203  git checkout main
+  204  git pull origin main
+  205  git checkout -b feature
+  206  nano README.txt
+  207  nano .gitignore
+  208  git status
+  209  nano README.txt
+  210  git status
+  211  git add README.txt .gitignore
+  212  nano README.md
+  213  git status
+  214  git add README.md .gitignore
+  215  git commit -m "add feature notes to README.md and .gitignore"
+  216  git push -u origin feature
+  217  git commit --amend
+  218  git push --force-with-lease
+  219  git checkout main
+  220  git pull origin main
+  221  git merge feature
+  222  git push origin main
+  223  history > history.txt
